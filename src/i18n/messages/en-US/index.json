@@ -1,0 +1,13 @@
+{
+  "global": {
+    "site_title": "Site title"
+  },
+  "home": {
+    "title": "Hello world!",
+    "label": "Enter text to show an error on the client-side",
+    "min_length_error": "Value must be at least 3 characters"
+  },
+  "about": {
+    "title": "About page"
+  }
+}

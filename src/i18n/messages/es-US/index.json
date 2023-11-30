@@ -1,0 +1,13 @@
+{
+  "global": {
+    "site_title": "Título del sitio"
+  },
+  "home": {
+    "title": "¡Hola mundo!",
+    "label": "Ingrese texto para mostrar un error en el lado del cliente",
+    "min_length_error": "El valor debe tener al menos 3 caracteres"
+  },
+  "about": {
+    "title": "About page but in Spanish"
+  }
+}
